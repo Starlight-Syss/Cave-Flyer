@@ -1,1 +1,1 @@
-simple minesweeper game in HTML, meaning you only need to run it in your web browser
+simple suruve wave game, need pygame for it to run
